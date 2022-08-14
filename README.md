@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- 🔭 I’m a Data Anakytics Enthusiast
+- 🔭 I’m a Data Analytics Enthusiast
 - 🌱 I’m currently working on: Microsoft Power BI, Advance Microsoft Excel
 - 👯 2022 Goals: Learning New skill in the feild of Data Analytics, Data Visualization.
 - 🤔 Fun Fact: I love Basketball. My favourite player is Michael Jordon.
