@@ -1,4 +1,5 @@
-### Hi there 👋
+### 👋 Hi there, 
+   I am Ayush Joshi - Reporting Analyst at Panoptic Analytics
 
 - 🔭 I’m a Data Analytics Enthusiast
 - 👓 I’m currently working on: Microsoft Power BI, SQL, Advance Microsoft Excel
